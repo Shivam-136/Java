@@ -1,4 +1,4 @@
-public class RemoveSpaces {
+public class RemoveSpaces{
 
     static String removeSpaces(String str) {
 
