@@ -4,6 +4,7 @@ public class StringLength {
         return str.length();
     }
     public static void main(String[] args) {
-        System.out.println(length("programming"));
+        System.out.println(length("java programming"));
+        System.out.println(length("web dev"));
     }
 }
